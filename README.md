@@ -2,7 +2,7 @@
 
 Проект по предсказанию цен на квартиры на основе данных о характеристиках жилья. Сравниваются три подхода: линейная регрессия, градиентный бустинг и полносвязная нейронная сеть.
 
-**Ссылка на проект:** [Google Colab](https://colab.research.google.com/drive/1Njpm3gE9w4vGyPUMFuxOCyu_-PNoQQpv)
+**Ссылка на проект:** [Google Colab](https://colab.research.google.com/drive/1Njpm3gE9w4vGyPUMFuxOCyu_-PNoQQpv#scrollTo=2crGAJYZCvNW)
 **Ссылка на датасет:** [Kaggle Competition](https://www.kaggle.com/competitions/itmo-flat-price-prediction-2024/data)
 
 ---
